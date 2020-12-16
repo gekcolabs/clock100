@@ -1,5 +1,5 @@
-# clock100
-Firmware for the low cost Digital Clock model CLK100 has a 0.56 inch 6 digit LED display. 
+# clock056 and clock100 Firmware
+This Firmware for the low cost Digital Clock model CLK056 and CLK100 which has a 0.56 inch 6 digit LED display. 
 This unique clock allows the alternate display of hours for any two time zones. 
 One time zone could be UTC time and the other local time. 
 Timing accuracy is exceptional using the DS3231 real time clock IC. 
